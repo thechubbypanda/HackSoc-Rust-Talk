@@ -12,7 +12,7 @@ Now, you may be thinking: "What? Another programming language? Aren't there enou
 
 but Rust is the culmination of all of them.
 
-Alright, alright. Time to back up that big claim with more big claims. I'll paraphrase the [rust-lang.org](https://rust-lang.org) {Slide - Rust site} site; 
+Alright, alright. It's time to back up that big claim with more big claims. I'll paraphrase the [rust-lang.org](https://rust-lang.org) {Slide - Rust site} site; 
 
 "Rust is blazingly fast with no runtime or garbage collector and it guarantees memory and thread safety". 
 
