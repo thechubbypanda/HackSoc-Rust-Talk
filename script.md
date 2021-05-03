@@ -40,6 +40,8 @@ Secondly, look at that time code for CPP. I didn't know it was that bad until ne
 
 Then you have the functional-like stuff on the Rust side, I don't know about you but I like the way Haskell works so when functional and procedural are this well integrated, I practically swoon.
 
+I could keep listing things but for the sake of time;
+
 {Slide - Zoot Ferris}
 
 I can't force you to use either language but I hope I've inspired you to, at the very least, try Rust in your next project.
