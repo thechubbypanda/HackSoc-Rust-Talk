@@ -4,7 +4,7 @@ Evening everyone, my name is Keval and I'm here to tell you why you should try R
 
 {Slide - Funny Rust game screenshot} And no, I'm not talking about the game that I'm sure we all know and love, I'm talking about the programming language.
 
-{Slide - Zoot crab}
+{Slide - Rust logo}
 
 Now, you may be thinking: "What? Another programming language? Aren't there enough of those already?", and to that I'll say: Yes, yes there are... 
 
@@ -22,9 +22,9 @@ They aren't kidding either, Rust stands up to every word and then some.
 
 Have you ever been staring down a C++ bug, talking to your {Slide - Ducks} 8 rubber ducks as if they're your therapist, and just all around having an existential crisis? {Pause} I'm sure we've all known an equivalent feeling while programming.
 
-Well the way rust works means you to never have to deal with _that_ kind of problem again. {Slide - Compiler complains} The compiler literally will not let you make mistakes like that.
+Well the way rust works means you to never have to deal with _that_ kind of problem again. {Slide - Compiler complains} The compiler literally will not let you make mistakes like that. Rust uses lifetimes and borrowing to ensure all memory you think exists, actually does. Best part is, it does this at compile time so the runtime can still be scarily fast.
 
-Granted this comes with a few caveats {Slide - Faster Compiler} like the compiler being a bit slow. Or the few other things {Slide - Chaplin} you'll have to deal with in place of your own ignorance.
+Granted all that comes with a few caveats {Slide - Faster Compiler} like the compiler being a bit slow. Or the few other things {Slide - Chaplin} you'll have to deal with in place of your own ignorance.
 
 But if you ask me, and probably all the people who voted {Slide - StackOverflow} Rust as the #1 loved language every year since 2016 on the Stack Overflow survey, that is a small price to pay.
 
@@ -40,3 +40,8 @@ Secondly, look at that time code for CPP. I didn't know it was that bad until ne
 
 Then you have the functional-like stuff on the Rust side, I don't know about you but I like the way Haskell works so when it's this well integrated in a procedural language, I practically swoon.
 
+{Slide - Zoot Ferris}
+
+I can't force you to use either language but I hope I've inspired you to, at the very least, try Rust in your next project.
+
+Badass Ferris and I want to thank you for listening.
