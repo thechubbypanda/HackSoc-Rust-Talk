@@ -4,7 +4,7 @@ Evening everyone, my name is Keval and I'm here to tell you why you should try R
 
 {Slide - Funny Rust game screenshot} And no, I'm not talking about the game that I'm sure we all know and love, I'm talking about the programming language.
 
-{Slide - Rust crab with zoot and shades}
+{Slide - Zoot crab}
 
 Now, you may be thinking: "What? Another programming language? Aren't there enough of those already?", and to that I'll say: Yes, yes there are... 
 
@@ -30,5 +30,13 @@ But if you ask me, and probably all the people who voted {Slide - StackOverflow}
 
 Essentially Rust takes C++, removes all the outdated crap, slaps on some sexy syntax and boom. Your favourite parts of CPP and Haskell all together in one place.
 
-I'll finish up with a code comparison {Slide - Code}
+Regardless of all that crap, you should be using Rust just because of {Slide - Cute Ferris} this little guy, his name's Ferris. {Pause} Ferris is a badass, don't let that demeanour fool you.
+
+I'll finish up with a comparison between a Sieve of Eratosthenes in Rust vs in CPP. I've tried to make them as comparable as possible {Slide - Code} but I'm no Rust or CPP god so there's probably far better ways to do things. Good news is, both of these files are on my GitHub so you can make a pull request telling me how stupid I am.
+
+First off, the Rust version straight up runs 24% faster than CPP in the best case for both languages for primes up to 10,000. I got 39,504 nanoseconds for the Rust version and when it actually ran quickly, CPP gave 49,193 nanoseconds.
+
+Secondly, look at that time code for CPP. I didn't know it was that bad until needing to write this talk!
+
+Then you have the functional-like stuff on the Rust side, I don't know about you but I like the way Haskell works so when it's this well integrated in a procedural language, I practically swoon.
 
