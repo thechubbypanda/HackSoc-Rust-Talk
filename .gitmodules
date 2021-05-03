@@ -1,3 +1,6 @@
 [submodule "rust-primes"]
 	path = rust-primes
 	url = ../rust-primes
+[submodule "cpp-primes"]
+	path = cpp-primes
+	url = ../cpp-primes
