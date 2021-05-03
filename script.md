@@ -22,7 +22,7 @@ They aren't kidding either, Rust stands up to every word and then some.
 
 Have you ever been staring down a C++ bug, talking to your {Slide - Ducks} 8 rubber ducks as if they're your therapist, and just all around having an existential crisis? {Pause} I'm sure we've all known an equivalent feeling while programming.
 
-Well the way rust works means you to never have to deal with _that_ kind of problem again. {Slide - Compiler complains} The compiler literally will not let you make mistakes like that. Rust uses lifetimes and borrowing to ensure all memory you think exists, actually does. Best part is, it does this at compile time so the runtime can still be scarily fast.
+Well the way rust works means you never have to deal with _that_ kind of problem again. {Slide - Compiler complains} The compiler literally will not let you make mistakes like that. Rust uses lifetimes and borrowing to ensure all memory you think exists, actually does. Best part is, it does this at compile time so the runtime can still be scarily fast.
 
 Granted all that comes with a few caveats {Slide - Faster Compiler} like the compiler being a bit slow. Or the other small things {Slide - Chaplin} you'll have to deal with in place of your own ignorance.
 
