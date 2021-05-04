@@ -1,6 +1,6 @@
 - Introduce
 - {Rust game} Not about game, about language
-- {Rust logo} Joking aren't there enough languages, yes there are {Megamind}, rust is cumination
+- {Rust logo} You may think: Aren't there enough languages, yes there are {Megamind}, rust is cumination
 - Back up big claim with big claims {Rust site}
 - "Rust is blazingly fast with no runtime or garbage collector and it guarantees memory and thread safety" {Sweet jesus}
 - They aren't kidding, stands up to every word.
@@ -12,7 +12,7 @@
 - Lifetimes ensure any references you create become invalid once you destroy the original data.
 - Borrowing allows the tracking of data ownership.
 - Best part, does at compile time. Runtime fast
-- Caveats: {slow compiler}, small things {chaplin} in place of your ignorance
+- Caveats: {slow compiler}, small things {chaplin} in place of the usual seg faults etc
 - If you ask me and the people who voted rust {stackoverflow} the most loved lang every year since 2016, that is a small price to pay.
 - Essentially Rust takes C++, removes outdated crap, slaps on sexy syntax.
 - Your favourite parts of CPP and haskell together in a modern, easy to use package.
