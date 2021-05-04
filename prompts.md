@@ -1,0 +1,29 @@
+- Introduce
+- {Rust game} Not about game, about language
+- {Rust logo} Joking aren't there enough languages, yes there are {Megamind}, rust is cumination
+- Back up big claim with big claims {Rust site}
+- "Rust is blazingly fast with no runtime or garbage collector and it guarantees memory and thread safety" {Sweet jesus}
+- They aren't kidding, stands up to every word.
+- Staring down a cpp bug, talking to your {rubber duck} as if it's your therapist, and, you know, all around having an existential crisis.
+- I'm sure we've all been there
+- The way rust works means that you don't have to deal with **that** type of problem again. {compiler no}
+- Compiler literally does not let you make mistakes like that.
+- "Rust uses lifetimes and borrowing to ensure all memory that your monkey brain thinks exists, actually does"
+- Lifetimes ensure any references you create become invalid once you destroy the original data.
+- Borrowing allows the tracking of data ownership.
+- Best part, does at compile time. Runtime fast
+- Caveats: {slow compiler}, small things {chaplin} in place of your ignorance
+- If you ask me and the people who voted rust {stackoverflow} the most loved lang every year since 2016, that is a small price to pay.
+- Essentially Rust takes C++, removes outdated crap, slaps on sexy syntax.
+- Your favourite parts of CPP and haskell together in a modern, easy to use package.
+- Regardless of all that jargon, you should use rust because of {ferris}.
+- Ferris is a badass, don't let that demeanour fool you.
+- {Comparison} prime calculator, eratosthenes. Comparable as possible, but no god. Github, how stupid I am.
+- Rust is 24% faster running consistently at 39,504 nanoseconds.
+- CPP **best case** 49,193 nanoseconds.
+- Shitty time code
+- Rust functional, haskell good. When procedural and functional integrated, practically swoon.
+- I could keep listing things but I'll let you be the final judge;
+- {zoot ferris}
+- I can't force you to use, but hope inspired to use rust next project
+- Badass ferris and I thank you for listening
